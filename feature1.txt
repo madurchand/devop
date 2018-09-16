@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is conflict teating for merge in branch branchAmod3A
-=======
-this is conflict teating for merge in branch branchAmod3A
->>>>>>> branchAmod3B
